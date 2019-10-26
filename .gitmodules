@@ -1,0 +1,3 @@
+[submodule "translate\\official"]
+	path = translate\\official
+	url = git@github.com:TheIndieStone/ProjectZomboidTranslations.git
