@@ -395,11 +395,12 @@ ContextMenu_CH = {
 	ContextMenu_Yourself = "自己",
 	ContextMenu_WashAllClothing = "全部衣物",
 	ContextMenu_WashClothing = "%1"
-	-- missing Sit On Ground "坐在地上",
+	ContextMenu_Sit_On_Ground = "坐在地上",
+	-- ContextMenu_Pick_Up_Broken_Glass = "拾起碎玻璃",
 		
     ContextMenu_ReplaceClothing = "%1 換成 %2",
     ContextMenu_ReverseCap = "反戴帽子",
     ContextMenu_AddRandom = "添加任意的%1",
     ContextMenu_FromRandom = "使用任意的%1",
-
+	-- ContextMenu_Inspect = "檢查",
 }

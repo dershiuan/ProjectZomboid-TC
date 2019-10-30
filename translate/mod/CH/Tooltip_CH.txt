@@ -214,8 +214,11 @@ Tooltip_CH = {
 	
 	-- build 41
 	
+	--Tooltip_item_Wind_Resistance = "防風",
+	--Tooltip_item_Water_Resistance = "防水",
 	--Tooltip_item_Bite_Defense = "防咬",
 	--Tooltip_item_Scratch_Defense = "防抓",
 	--Tooltip_item_Run_Speed_Modifier = "跑速修正",
+	--Tooltip_item_Combat_Speed_Modifier = "戰鬥速度修正",
 	
 }
