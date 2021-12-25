@@ -1,0 +1,12 @@
+EvolvedRecipeName_CH = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "義大利肉醬麵",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "胡蘿蔔",
+	EvolvedRecipeName_Base.CannedChiliOpen = "辣椒",
+	EvolvedRecipeName_Base.CannedCornOpen = "玉米",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "玉米牛肉",
+	EvolvedRecipeName_Base.CannedPeasOpen = "豌豆",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "馬鈴薯",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "沙丁魚",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "番茄",
+	EvolvedRecipeName_Base.Teabag2 = "茶",
+}
