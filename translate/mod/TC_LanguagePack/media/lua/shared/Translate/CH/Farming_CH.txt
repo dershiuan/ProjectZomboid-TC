@@ -16,6 +16,9 @@ Farming_CH = {
     Farming_Receding = "枯萎",
     Farming_Rotten = "腐爛",
     Farming_Destroyed = "摧毀",
+    Farming_Seedling = "秧苗",
+    Farming_Fully_grown = "成熟",
+    Farming_Ready_to_harvest = "等待收成",
     -- farming info text
     -- title
     Farming_Plant_Information = "植物資訊",
@@ -32,10 +35,6 @@ Farming_CH = {
     Farming_Thirsty = "缺水",
     Farming_Dry = "乾旱",
     Farming_Parched = "乾枯",
-    -- growing phase
-    Farming_Seedling = "秧苗",
-    Farming_Fully_grown = "成熟",
-    Farming_Ready_to_harvest = "等待收成",
     -- disease
     Farming_Mildew = "Mildew",
     Farming_Pest_Flies = "Pest Flies",

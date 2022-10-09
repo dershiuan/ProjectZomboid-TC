@@ -4,6 +4,6 @@
 
 
 # Files
-.bak
+*.bak
 *~
 *englishcache*
